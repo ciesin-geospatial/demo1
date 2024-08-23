@@ -1,0 +1,47 @@
+---
+title: "Demo 1 Page "
+author: "NLU Students"
+bibliography: references.bib
+---
+
+# This is a large title
+
+## sub title
+
+### so on...
+
+Hello there
+
+-   unordered list
+    -   sub-item 1
+    -   sub-item 2
+        -   sub-sub-item 1
+-   [ ] Task 1
+-   [x] Task 2
+
+Something complicated[^1]
+
+[^1]: This is footnote text.
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|    12 | 12   | 12      |   12   |
+|   123 | 123  | 123     |  123   |
+|     1 | 1    | 1       |   1    |
+
+# The Peregine Falcon
+
+![small image](https://digitalmedia.fws.gov/digital/api/singleitem/image/natdiglib/513/default.jpg){width="25%"}
+
+The Peregine Falcon's population in south eastern Illinois is likely not going extinct and is slowly growing [@gahbauer2014]. THis is a demo [@nlutag2024].
+
+```{r}
+print("Hello, world.")
+```
+
+Contniue here 
+
+
+The end.
+
+Thank you!!

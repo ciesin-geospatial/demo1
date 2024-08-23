@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+# Python environment setup
+
+# Global document options
+title: "My HTML Webpage"
+author: "NLU"
+date: "2024-08-23"
+format:
+  html:
+    theme: cosmo         # Specify the Bootstrap theme (e.g., cosmo, flatly, etc.)
+    toc: true   
